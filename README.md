@@ -14,8 +14,6 @@ This is a solution to the [Pricing component with toggle challenge on Frontend M
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -32,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Gitub](https://github.com/graficdoctor/fe-24-002-pricing-component-with-toggle)
+- Live Site URL: [Deployed on Netlify](https://magnificent-basbousa-ebe39d.netlify.app/)
 
 ## My process
 
@@ -67,6 +65,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https:/www.katriens.be)
+- Website - [Katrien Schuermans](https:/www.katriens.be)
 - Frontend Mentor - [@graficdoctor](https://www.frontendmentor.io/profile/graficdoctor)
 - Twitter - [@graficdoctor](https://www.twitter.com/graficdoctor)
